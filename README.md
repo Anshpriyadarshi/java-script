@@ -6,7 +6,7 @@
 
 <br>
 
-```text
+text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   > SYSTEM INITIALIZED                                      │
@@ -18,17 +18,17 @@
 │   "Turning curiosity into code."                            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-````
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=500\&size=19\&duration=2800\&pause=900\&color=00FF88\&center=true\&vCenter=true\&width=700\&lines=%3E+booting+developer_mode...;%3E+learning+the+fundamentals...;%3E+building+projects...;%3E+debugging+mistakes...;%3E+becoming+better+every+commit.)](https://github.com/)
 
 </div>
 
----
+
 
 ## `01 // WHO_AM_I`
 
-```python
+python
 class Ansh:
 
     name = "Ansh Priyadarshi"
@@ -53,7 +53,7 @@ class Ansh:
     ]
 
     mindset = "Learn → Build → Break → Fix → Repeat"
-```
+
 
 I'm a **first-year Computer Science Engineering student** beginning my developer journey.
 
@@ -61,13 +61,13 @@ Right now, I'm focused on understanding the fundamentals rather than rushing tow
 
 I like knowing **what happens behind the code**, why something works, and how I can improve it.
 
-> `// No shortcuts. Just progress.`
+> // No shortcuts. Just progress.
 
----
 
-## `02 // CURRENT_MISSION`
 
-```text
+## 02 // CURRENT_MISSION
+
+text
 [████████████████████░░░░░░░░░░]  65%
 
 MISSION:
@@ -90,41 +90,41 @@ OBJECTIVES:
 [~] Explore AI / ML
 
 [ ] Become dangerous with code
-```
 
----
 
-## `03 // TECH_STACK`
 
-### `WEB_PROTOCOLS`
+
+## 03 // TECH_STACK
+
+### WEB_PROTOCOLS
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
-### `PROGRAMMING_CORE`
+### PROGRAMMING_CORE
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 </p>
 
-### `DESIGN_INTERFACE`
+### DESIGN_INTERFACE
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
 </p>
 
-### `DEVELOPER_TERMINAL`
+### DEVELOPER_TERMINAL
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 </p>
 
----
 
-## `04 // SKILL_MATRIX`
 
-```text
+## 04 // SKILL_MATRIX
+
+text
 ╔════════════════════════════════════════════════════════════╗
 ║                     SKILL MATRIX                           ║
 ╠══════════════════╦═══════════════════════╦═════════════════╣
@@ -137,7 +137,6 @@ OBJECTIVES:
 ║ Figma            ║ ██████░░░░            ║ DESIGNING       ║
 ║ Git / GitHub     ║ ██████░░░░            ║ IMPROVING       ║
 ╚══════════════════╩═══════════════════════╩═════════════════╝
-```
 
 > These aren't professional skill ratings.
 > They're simply a snapshot of my current learning stage.
