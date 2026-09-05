@@ -1,252 +1,332 @@
-<!-- =========================================================
-     ANSH — GITHUB PROFILE README
-     Visual Identity: Midnight Forge
-     Theme: Charcoal × Violet × Amber
-     ========================================================= -->
-
-<!-- ========================= HERO ========================== -->
+````md
+<!-- ========================================================= -->
+<!--                  ANSH PRIYADARSHI README                  -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0710,45:24113A,100:6D28D9&height=230&section=header&text=ANSH&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=learning%20%7C%20building%20%7C%20evolving&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=ANSH%20PRIYADARSHI&fontSize=42&fontColor=00FF88&color=0:050505,50:071A12,100:000000&stroke=00FF88&strokeWidth=1&animation=fadeIn&fontAlignY=55"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Student+Developer+%7C+Builder+in+Progress;Turning+curiosity+into+working+code;Learning+the+fundamentals%2C+one+project+at+a+time;The+goal%3A+better+than+yesterday." />
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   > SYSTEM INITIALIZED                                      │
+│   > USER      : ANSH                                        │
+│   > ROLE      : CSE STUDENT / DEVELOPER IN PROGRESS         │
+│   > STATUS    : ONLINE                                      │
+│   > VERSION   : 0.1                                          │
+│                                                              │
+│   "Turning curiosity into code."                            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+````
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=500\&size=19\&duration=2800\&pause=900\&color=00FF88\&center=true\&vCenter=true\&width=700\&lines=%3E+booting+developer_mode...;%3E+learning+the+fundamentals...;%3E+building+projects...;%3E+debugging+mistakes...;%3E+becoming+better+every+commit.)](https://github.com/)
+
+</div>
+
+---
+
+## `01 // WHO_AM_I`
+
+```python
+class Ansh:
+
+    name = "Ansh Priyadarshi"
+    education = "B.Tech Computer Science Engineering"
+    college = "CodingGita"
+    journey = "2026 → 2030"
+
+    currently_learning = [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python"
+    ]
+
+    exploring = [
+        "UI/UX Design",
+        "Web Development",
+        "DSA",
+        "AI / ML",
+        "Full-Stack Development",
+        "App Development"
+    ]
+
+    mindset = "Learn → Build → Break → Fix → Repeat"
+```
+
+I'm a **first-year Computer Science Engineering student** beginning my developer journey.
+
+Right now, I'm focused on understanding the fundamentals rather than rushing toward a long list of technologies.
+
+I like knowing **what happens behind the code**, why something works, and how I can improve it.
+
+> `// No shortcuts. Just progress.`
+
+---
+
+## `02 // CURRENT_MISSION`
+
+```text
+[████████████████████░░░░░░░░░░]  65%
+
+MISSION:
+Build a strong foundation before building complicated things.
+
+OBJECTIVES:
+
+[✓] Learn HTML
+[✓] Explore CSS
+[✓] Start JavaScript
+[✓] Practice Python
+[✓] Learn Git
+[✓] Learn GitHub
+[✓] Explore Figma
+
+[~] Build better projects
+[~] Improve problem solving
+[~] Learn DSA
+[~] Explore Full-Stack
+[~] Explore AI / ML
+
+[ ] Become dangerous with code
+```
+
+---
+
+## `03 // TECH_STACK`
+
+### `WEB_PROTOCOLS`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+</p>
+
+### `PROGRAMMING_CORE`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+</p>
+
+### `DESIGN_INTERFACE`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+</p>
+
+### `DEVELOPER_TERMINAL`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
+
+---
+
+## `04 // SKILL_MATRIX`
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                     SKILL MATRIX                           ║
+╠══════════════════╦═══════════════════════╦═════════════════╣
+║ TECHNOLOGY       ║ CURRENT LEVEL         ║ MODE            ║
+╠══════════════════╬═══════════════════════╬═════════════════╣
+║ HTML             ║ ████████░░            ║ BUILDING        ║
+║ CSS              ║ ███████░░░            ║ EXPLORING       ║
+║ JavaScript       ║ █████░░░░░            ║ LEARNING        ║
+║ Python           ║ ███████░░░            ║ PRACTICING      ║
+║ Figma            ║ ██████░░░░            ║ DESIGNING       ║
+║ Git / GitHub     ║ ██████░░░░            ║ IMPROVING       ║
+╚══════════════════╩═══════════════════════╩═════════════════╝
+```
+
+> These aren't professional skill ratings.
+> They're simply a snapshot of my current learning stage.
+
+---
+
+## `05 // DEVELOPER_LOG`
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    DEVELOPMENT LOG                       │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  2026  ──► ENTERED THE CODEBASE                         │
+│             │                                            │
+│             ├── HTML / CSS                               │
+│             ├── Python                                  │
+│             ├── JavaScript                              │
+│             ├── Git & GitHub                            │
+│             └── UI / UX                                 │
+│                                                          │
+│  2027  ──► BUILD                                          │
+│             │                                            │
+│             └── More projects + stronger fundamentals   │
+│                                                          │
+│  2028  ──► EXPAND                                         │
+│             │                                            │
+│             └── DSA + advanced development              │
+│                                                          │
+│  2029  ──► DEPLOY                                         │
+│             │                                            │
+│             └── Real-world experience                   │
+│                                                          │
+│  2030  ──► NEXT LEVEL                                     │
+│             │                                            │
+│             └── Graduation + whatever comes next        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `06 // GITHUB_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anshpriyadarshi&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&text_color=9AFFC8&icon_color=00FF88&ring_color=00FF88" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshpriyadarshi&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=9AFFC8" height="165"/>
 
 <br><br>
 
-<a href="https://github.com/[Anshpriyadarshi]">
-<img src="https://img.shields.io/badge/GitHub-0B0710?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&theme=dark&hide_border=true&background=050505&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"/>
+
+</div>
+
+---
+
+## `07 // CONTRIBUTION_STREAM`
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+## `08 // PHILOSOPHY`
+
+```text
+                     ┌───────────────┐
+                     │    CURIOUS    │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │    LEARN      │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │     BUILD     │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │    BREAK      │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │     FIX       │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │    IMPROVE    │
+                     └───────┬───────┘
+                             │
+                             └──────────► REPEAT
+```
+
+### `terminal_thought`
+
+```bash
+$ echo "perfect"
+
+perfect
+
+$ echo "reality"
+
+not found
+
+$ echo "progress"
+
+████████████████████████████████  FOUND
+```
+
+---
+
+## `09 // OUTSIDE_THE_CODE`
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│  🎨 UI / UX        → Figma               │
+│  💻 DEVELOPMENT    → Building things     │
+│  🧠 PROBLEM SOLVING → Learning daily     │
+│  🏋️ GYM            → Discipline          │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+I believe becoming a developer isn't only about writing code.
+
+It's also about **discipline, consistency, creativity, problem-solving, and being willing to start again when something doesn't work.**
+
+---
+
+## `10 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Anshpriyadarshi">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </a>
 
-<a href="[www.linkedin.com/in/
-ansh-priyadarshi-868b43427
-]">
-<img src="https://img.shields.io/badge/LinkedIn-24113A?style=for-the-badge&logo=linkedin&logoColor=C084FC" />
+<a href="www.linkedin.com/in/ansh-priyadarshi-868b43427">
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
 </a>
 
 </div>
 
 ---
 
-# `01` — THE PERSON BEHIND THE CODE
-
-I'm **Ansh**, a student developer currently building my foundation in software and technology.
-
-I'm not here to present a list of technologies I've "mastered."
-
-I'm here to document the things I'm **actually learning, experimenting with, and building**.
-
-My current world includes:
-
-**Python • HTML • CSS • JavaScript • Figma • Git • GitHub • VS Code**
-
-I'm especially interested in the intersection of:
+<div align="center">
 
 ```text
-WEB DEVELOPMENT
-       +
-PROBLEM SOLVING
-       +
-UI / UX
-       +
-AI & FUTURE TECHNOLOGY
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│              CONNECTION ESTABLISHED                       │
+│                                                            │
+│       I'm not finished. I'm just getting started.         │
+│                                                            │
+│       Learn something. Build something. Repeat.            │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
-02 — MY LEARNING ENGINE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071A12,100:00FF88&height=120&section=footer"/>
 
-I believe becoming a developer is less about collecting technologies and more about learning how to think, experiment and solve problems.
-                    ┌───────────────┐
-                    │   CURIOSITY   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  UNDERSTAND   │
-                    │   THE IDEA    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     BUILD     │
-                    │   SOMETHING   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    DEBUG      │
-                    │   & EXPLORE   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   IMPROVE     │
-                    │   THE IDEA    │
-                    └───────┬───────┘
-                            │
-                            └───────────► REPEAT
-03 — MY DIGITAL WORKSHOP
-</> Programming & Web
-<p> <img src="https://skillicons.dev/icons?i=python,html,css,js" /> </p>
-| Technology   | Current focus                              |
-| ------------ | ------------------------------------------ |
-| 🐍 Python    | Programming fundamentals & experimentation |
-| 🌐 HTML      | Web structure & semantic foundations       |
-| 🎨 CSS       | Styling, layouts & responsive design       |
-| ⚡ JavaScript | Beginning interactive web development      |
-
-◈ Design
-<p> <img src="https://skillicons.dev/icons?i=figma" /> </p>
-
-Figma
-
-Exploring interface design, layouts, visual hierarchy and prototype
-
-⚙ Developer Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-| Tool    | How I use it                 |
-| ------- | ---------------------------- |
-| Git     | Version control              |
-| GitHub  | Repositories & collaboration |
-| VS Code | Development environment      |
-
-04 — CURRENT MOMENTUM
-
-These are learning indicators, not skill ratings.
-| Area            | Status       | Current direction                         |
-| --------------- | ------------ | ----------------------------------------- |
-| 🐍 Python       | `BUILDING`   | Stronger programming fundamentals         |
-| 🌐 HTML / CSS   | `BUILDING`   | Better web structure & responsive layouts |
-| ⚡ JavaScript    | `EXPLORING`  | Interactive web development               |
-| 🎨 Figma        | `EXPLORING`  | UI thinking & visual design               |
-| 🔧 Git / GitHub | `PRACTICING` | Better development workflow               |
-| 🧠 DSA          | `EXPLORING`  | Problem-solving foundations               |
-| 🤖 AI / ML      | `CURIOUS`    | Understanding the field                   |
-
-My current attention
-FUNDAMENTALS       ████████████████████
-
-BUILDING           ████████████████░░░░
-
-EXPERIMENTING      ████████████░░░░░░░░
-
-EXPLORING          ████████░░░░░░░░░░░░
-
-05 — THE JOURNEY
-          START                  NOW                   NEXT
-            │                     │                     │
-            ▼                     ▼                     ▼
-
-       ┌──────────┐         ┌────────────┐       ┌────────────┐
-       │ CURIOSITY│ ──────► │ FOUNDATION │ ───►  │  PROJECTS  │
-       └──────────┘         └────────────┘       └──────┬─────┘
-                                                        │
-                                                        ▼
-                                                ┌────────────┐
-                                                │  STRONGER  │
-                                                │    WEB     │
-                                                └──────┬─────┘
-                                                       │
-                                                       ▼
-                                                ┌────────────┐
-                                                │ AI / DSA / │
-                                                │ FULL STACK │
-                                                └────────────┘
-
-06 — AREAS ON MY RADAR
-
-These are directions I'm interested in exploring.
-
-🌐 Web Development
-
-Understanding how real websites are structured, designed and developed.
-
-🧩 Full-Stack Development
-
-Eventually exploring APIs, databases, servers and complete applications.
-
-🤖 AI / Machine Learning
-
-Learning how intelligent systems work and experimenting with Python-based AI projects.
-
-🧠 Data Structures & Algorithms
-
-Developing stronger logical thinking and problem-solving ability.
-
-📱 Application Development
-
-Exploring how software can move beyond traditional websites.
-
-🎨 UI / UX
-
-Combining design and development to create interfaces that feel clear and intentional.
-
-07 — GITHUB ACTIVITY
-<div align="center"> <a href="https://github.com/[YOUR GITHUB USERNAME]"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=[YOUR%20GITHUB%20USERNAME]&show_icons=true&hide_border=true&bg_color=0B0710&title_color=C084FC&icon_color=F59E0B&text_color=E5E7EB&ring_color=C084FC" /> </a> <a href="https://github.com/[YOUR GITHUB USERNAME]"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR%20GITHUB%20USERNAME]&layout=compact&hide_border=true&bg_color=0B0710&title_color=C084FC&text_color=E5E7EB" /> </a>
-
-<br><br>
-
-<a href="https://github.com/[YOUR GITHUB USERNAME]"> <img src="https://streak-stats.demolab.com/?user=[YOUR%20GITHUB%20USERNAME]&hide_border=true&background=0B0710&ring=C084FC&fire=F59E0B&currStreakLabel=C084FC&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" /> </a> </div> <br>
-
-My GitHub activity is intended to reflect genuine learning and building over time.
-
-08 — WHAT I WANT MY GITHUB TO BECOME
-             LEARN
-               │
-               ▼
-        ┌───────────────┐
-        │   CONCEPTS    │
-        └───────┬───────┘
-                │
-                ▼
-             BUILD
-                │
-                ▼
-        ┌───────────────┐
-        │   PROJECTS    │
-        └───────┬───────┘
-                │
-                ▼
-            IMPROVE
-                │
-                ▼
-        ┌───────────────┐
-        │  ITERATION    │
-        └───────┬───────┘
-                │
-                ▼
-             SHARE
-                │
-                ▼
-        ┌───────────────┐
-        │   COMMUNITY   │
-        └───────────────┘
-
-09 — NOTE TO MY FUTURE SELF
-
-I don't need to know everything today.
-
-I need to stay curious enough to learn what I don't know, patient enough to debug what doesn't work, and consistent enough to keep building.
-
-The developer I eventually become will be shaped by the small things I practice now.
-
-10 — MY DEVELOPER PRINCIPLE
-<div align="center">
-Build small. Understand deeply. Keep moving.
-<br>
-
-Curiosity → Code → Mistakes → Understanding → Progress
+**`> END OF README // SESSION CONTINUES...`**
 
 </div>
-
-11 — LET'S CONNECT
-<div align="center"> <a href="https://github.com/[YOUR GITHUB USERNAME]"> <img src="https://img.shields.io/badge/GitHub-My%20Code-0B0710?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> <a href="[YOUR LINKEDIN URL]"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-24113A?style=for-the-badge&logo=linkedin&logoColor=C084FC" /> </a> </div>
-<br> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Still+learning.+Still+building.+Still+curious.;Every+project+is+another+step+forward.;The+next+version+is+already+in+progress." />
-
-<br><br>
-
-<sub> This profile is a snapshot of the journey — not the finish line. </sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,55:24113A,100:0B0710&height=110&section=footer" width="100%" /> </div> ```
+```
