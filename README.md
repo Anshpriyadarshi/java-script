@@ -26,7 +26,7 @@ text
 
 
 
-## `01 // WHO_AM_I`
+## 01 // WHO_AM_I
 
 python
 class Ansh:
@@ -141,11 +141,11 @@ text
 > These aren't professional skill ratings.
 > They're simply a snapshot of my current learning stage.
 
----
 
-## `05 // DEVELOPER_LOG`
 
-```text
+## 05 // DEVELOPER_LOG
+
+text
 ┌──────────────────────────────────────────────────────────┐
 │                    DEVELOPMENT LOG                       │
 ├──────────────────────────────────────────────────────────┤
@@ -175,11 +175,11 @@ text
 │             └── Graduation + whatever comes next        │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-```
 
----
 
-## `06 // GITHUB_ACTIVITY`
+
+
+## 06 // GITHUB_ACTIVITY
 
 <div align="center">
 
@@ -193,9 +193,9 @@ text
 
 </div>
 
----
 
-## `07 // CONTRIBUTION_STREAM`
+
+## 07 // CONTRIBUTION_STREAM
 
 <div align="center">
 
@@ -216,11 +216,11 @@ text
 
 </div>
 
----
 
-## `08 // PHILOSOPHY`
 
-```text
+## 08 // PHILOSOPHY
+
+text
                      ┌───────────────┐
                      │    CURIOUS    │
                      └───────┬───────┘
@@ -251,11 +251,11 @@ text
                      └───────┬───────┘
                              │
                              └──────────► REPEAT
-```
 
-### `terminal_thought`
 
-```bash
+### terminal_thought
+
+bash
 $ echo "perfect"
 
 perfect
@@ -267,13 +267,13 @@ not found
 $ echo "progress"
 
 ████████████████████████████████  FOUND
-```
 
----
 
-## `09 // OUTSIDE_THE_CODE`
 
-```text
+
+## 09 // OUTSIDE_THE_CODE
+
+text
 ┌──────────────────────────────────────────┐
 │                                          │
 │  🎨 UI / UX        → Figma               │
@@ -282,15 +282,15 @@ $ echo "progress"
 │  🏋️ GYM            → Discipline          │
 │                                          │
 └──────────────────────────────────────────┘
-```
+
 
 I believe becoming a developer isn't only about writing code.
 
 It's also about **discipline, consistency, creativity, problem-solving, and being willing to start again when something doesn't work.**
 
----
 
-## `10 // CONNECT`
+
+## 10 // CONNECT
 
 <div align="center">
 
@@ -304,11 +304,10 @@ It's also about **discipline, consistency, creativity, problem-solving, and bein
 
 </div>
 
----
 
 <div align="center">
 
-```text
+text
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
 │              CONNECTION ESTABLISHED                       │
@@ -318,11 +317,11 @@ It's also about **discipline, consistency, creativity, problem-solving, and bein
 │       Learn something. Build something. Repeat.            │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
-```
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071A12,100:00FF88&height=120&section=footer"/>
 
-**`> END OF README // SESSION CONTINUES...`**
+**> END OF README // SESSION CONTINUES...**
 
 </div>
 
