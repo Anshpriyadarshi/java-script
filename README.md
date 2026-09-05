@@ -510,5 +510,3 @@ Every commit moves the system forward.
 
 </div>
 
-
-**Important:** this is ready to paste into `Anshpriyadarshi/Anshpriyadarshi/README.md`. The only feature that needs a separate GitHub Actions workflow is the **contribution snake**, because GitHub has to generate that SVG before the README can display it.
