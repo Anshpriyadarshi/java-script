@@ -1,34 +1,33 @@
-
-
+````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=ANSH%20PRIYADARSHI&fontSize=42&fontColor=00FF88&color=0:050505,50:071A12,100:000000&stroke=00FF88&strokeWidth=1&animation=fadeIn&fontAlignY=55"/>
 
-<br>
+<br><br>
 
-text
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   > SYSTEM INITIALIZED                                      │
 │   > USER      : ANSH                                        │
 │   > ROLE      : CSE STUDENT / DEVELOPER IN PROGRESS         │
 │   > STATUS    : ONLINE                                      │
-│   > VERSION   : 0.1                                          │
+│   > VERSION   : 0.1                                         │
 │                                                              │
 │   "Turning curiosity into code."                            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+````
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=500\&size=19\&duration=2800\&pause=900\&color=00FF88\&center=true\&vCenter=true\&width=700\&lines=%3E+booting+developer_mode...;%3E+learning+the+fundamentals...;%3E+building+projects...;%3E+debugging+mistakes...;%3E+becoming+better+every+commit.)](https://github.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=500\&size=19\&duration=2800\&pause=900\&color=00FF88\&center=true\&vCenter=true\&width=700\&lines=%3E+booting+developer_mode...;%3E+learning+the+fundamentals...;%3E+building+projects...;%3E+debugging+mistakes...;%3E+becoming+better+every+commit.)](https://github.com/Anshpriyadarshi)
 
 </div>
 
+---
 
+## `01 // WHO_AM_I`
 
-## 01 // WHO_AM_I
-
-python
+```python
 class Ansh:
 
     name = "Ansh Priyadarshi"
@@ -53,7 +52,7 @@ class Ansh:
     ]
 
     mindset = "Learn → Build → Break → Fix → Repeat"
-
+```
 
 I'm a **first-year Computer Science Engineering student** beginning my developer journey.
 
@@ -61,13 +60,13 @@ Right now, I'm focused on understanding the fundamentals rather than rushing tow
 
 I like knowing **what happens behind the code**, why something works, and how I can improve it.
 
-> // No shortcuts. Just progress.
+> `// No shortcuts. Just progress.`
 
+---
 
+## `02 // CURRENT_MISSION`
 
-## 02 // CURRENT_MISSION
-
-text
+```text
 [████████████████████░░░░░░░░░░]  65%
 
 MISSION:
@@ -90,41 +89,41 @@ OBJECTIVES:
 [~] Explore AI / ML
 
 [ ] Become dangerous with code
+```
 
+---
 
+## `03 // TECH_STACK`
 
-
-## 03 // TECH_STACK
-
-### WEB_PROTOCOLS
+### `WEB_PROTOCOLS`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
-### PROGRAMMING_CORE
+### `PROGRAMMING_CORE`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 </p>
 
-### DESIGN_INTERFACE
+### `DESIGN_INTERFACE`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
 </p>
 
-### DEVELOPER_TERMINAL
+### `DEVELOPER_TERMINAL`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 </p>
 
+---
 
+## `04 // SKILL_MATRIX`
 
-## 04 // SKILL_MATRIX
-
-text
+```text
 ╔════════════════════════════════════════════════════════════╗
 ║                     SKILL MATRIX                           ║
 ╠══════════════════╦═══════════════════════╦═════════════════╣
@@ -137,20 +136,21 @@ text
 ║ Figma            ║ ██████░░░░            ║ DESIGNING       ║
 ║ Git / GitHub     ║ ██████░░░░            ║ IMPROVING       ║
 ╚══════════════════╩═══════════════════════╩═════════════════╝
+```
 
 > These aren't professional skill ratings.
 > They're simply a snapshot of my current learning stage.
 
+---
 
+## `05 // DEVELOPER_LOG`
 
-## 05 // DEVELOPER_LOG
-
-text
+```text
 ┌──────────────────────────────────────────────────────────┐
 │                    DEVELOPMENT LOG                       │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  2026  ──► ENTERED THE CODEBASE                         │
+│  2026  ──► ENTERED THE CODEBASE                          │
 │             │                                            │
 │             ├── HTML / CSS                               │
 │             ├── Python                                  │
@@ -158,28 +158,28 @@ text
 │             ├── Git & GitHub                            │
 │             └── UI / UX                                 │
 │                                                          │
-│  2027  ──► BUILD                                          │
+│  2027  ──► BUILD                                         │
 │             │                                            │
 │             └── More projects + stronger fundamentals   │
 │                                                          │
-│  2028  ──► EXPAND                                         │
+│  2028  ──► EXPAND                                        │
 │             │                                            │
 │             └── DSA + advanced development              │
 │                                                          │
-│  2029  ──► DEPLOY                                         │
+│  2029  ──► DEPLOY                                        │
 │             │                                            │
 │             └── Real-world experience                   │
 │                                                          │
-│  2030  ──► NEXT LEVEL                                     │
+│  2030  ──► NEXT LEVEL                                    │
 │             │                                            │
 │             └── Graduation + whatever comes next        │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
+```
 
+---
 
-
-
-## 06 // GITHUB_ACTIVITY
+## `06 // GITHUB_ACTIVITY`
 
 <div align="center">
 
@@ -193,34 +193,38 @@ text
 
 </div>
 
+---
 
-
-## 07 // CONTRIBUTION_STREAM
+## `07 // CONTRIBUTION_STREAM`
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake.svg"
-  />
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ alt="GitHub contribution snake"
+ src="https://raw.githubusercontent.com/Anshpriyadarshi/Anshpriyadarshi/output/github-contribution-grid-snake.svg"
+/>
+
 </picture>
 
 </div>
 
+---
 
+## `08 // PHILOSOPHY`
 
-## 08 // PHILOSOPHY
-
-text
+```text
                      ┌───────────────┐
                      │    CURIOUS    │
                      └───────┬───────┘
@@ -251,11 +255,11 @@ text
                      └───────┬───────┘
                              │
                              └──────────► REPEAT
+```
 
+### `terminal_thought`
 
-### terminal_thought
-
-bash
+```bash
 $ echo "perfect"
 
 perfect
@@ -267,30 +271,30 @@ not found
 $ echo "progress"
 
 ████████████████████████████████  FOUND
+```
 
+---
 
+## `09 // OUTSIDE_THE_CODE`
 
-
-## 09 // OUTSIDE_THE_CODE
-
-text
+```text
 ┌──────────────────────────────────────────┐
 │                                          │
-│  🎨 UI / UX        → Figma               │
-│  💻 DEVELOPMENT    → Building things     │
+│  🎨 UI / UX         → Figma              │
+│  💻 DEVELOPMENT     → Building things    │
 │  🧠 PROBLEM SOLVING → Learning daily     │
-│  🏋️ GYM            → Discipline          │
+│  🏋️ GYM             → Discipline         │
 │                                          │
 └──────────────────────────────────────────┘
-
+```
 
 I believe becoming a developer isn't only about writing code.
 
 It's also about **discipline, consistency, creativity, problem-solving, and being willing to start again when something doesn't work.**
 
+---
 
-
-## 10 // CONNECT
+## `10 // CONNECT`
 
 <div align="center">
 
@@ -298,16 +302,19 @@ It's also about **discipline, consistency, creativity, problem-solving, and bein
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </a>
 
-<a href="www.linkedin.com/in/ansh-priyadarshi-868b43427">
+ 
+
+<a href="https://www.linkedin.com/in/ansh-priyadarshi-868b43427/">
 <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
 </a>
 
 </div>
 
+<br>
 
 <div align="center">
 
-text
+```text
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
 │              CONNECTION ESTABLISHED                       │
@@ -317,11 +324,37 @@ text
 │       Learn something. Build something. Repeat.            │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
-
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071A12,100:00FF88&height=120&section=footer"/>
 
-**> END OF README // SESSION CONTINUES...**
+<br>
+
+**`> END OF README // SESSION CONTINUES...`**
 
 </div>
+```
 
+### One more important thing ⚠️
+
+Your **Contribution Snake will NOT automatically work** just because those URLs are present.
+
+You need a GitHub Actions workflow that generates:
+
+```text
+output/
+├── github-contribution-grid-snake.svg
+└── github-contribution-grid-snake-dark.svg
+```
+
+Also, your GitHub stats only work if **`Anshpriyadarshi` is your exact GitHub username** and the profile repository is:
+
+```text
+Anshpriyadarshi/Anshpriyadarshi
+```
+
+If that is your actual username, you're good.
+
+The `Typing SVG`, `skillicons`, `GitHub Stats`, `Streak`, and `Capsule Render` sections should work as external image embeds, assuming those services are available.
+
+**Your biggest original issue was simply the missing Markdown code fences.** The version above fixes that.
