@@ -334,27 +334,3 @@ It's also about **discipline, consistency, creativity, problem-solving, and bein
 
 </div>
 ```
-
-### One more important thing ⚠️
-
-Your **Contribution Snake will NOT automatically work** just because those URLs are present.
-
-You need a GitHub Actions workflow that generates:
-
-```text
-output/
-├── github-contribution-grid-snake.svg
-└── github-contribution-grid-snake-dark.svg
-```
-
-Also, your GitHub stats only work if **`Anshpriyadarshi` is your exact GitHub username** and the profile repository is:
-
-```text
-Anshpriyadarshi/Anshpriyadarshi
-```
-
-If that is your actual username, you're good.
-
-The `Typing SVG`, `skillicons`, `GitHub Stats`, `Streak`, and `Capsule Render` sections should work as external image embeds, assuming those services are available.
-
-**Your biggest original issue was simply the missing Markdown code fences.** The version above fixes that.
