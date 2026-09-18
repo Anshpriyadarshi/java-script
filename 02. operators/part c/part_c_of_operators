@@ -1,0 +1,182 @@
+// 1. Loose Equality ==
+
+let storedPassword = 1234;
+let enteredPassword = "1234";
+console.log(storedPassword == enteredPassword);
+
+let userAnswer = 0;
+let defaultAnswer = false;
+console.log(userAnswer == defaultAnswer);
+
+let userInput = "";
+let submittedFlag = false;
+console.log(userInput == submittedFlag);
+
+let backendValue = null;
+let frontendValue = undefined;
+console.log(backendValue == frontendValue);
+
+let score1 = 500;
+let score2 = "500";
+console.log(score1 == score2);
+
+
+// 2. Loose Inequality !=
+
+let discountCode1 = "SAVE10";
+let discountCode2 = "SAVE20";
+console.log(discountCode1 != discountCode2);
+
+let userRole = "admin";
+let defaultRole = "guest";
+console.log(userRole != defaultRole);
+
+let correctAnswer = 42;
+let answer = "40";
+console.log(correctAnswer != answer);
+
+let email = "";
+let emptyFlag = false;
+console.log(email != emptyFlag);
+
+let userId = null;
+let validId = 101;
+console.log(userId != validId);
+
+
+// 3. Strict Equality ===
+
+let password1 = 1234;
+let password2 = "1234";
+console.log(password1 === password2);
+
+let account1 = 1234567890;
+let account2 = 1234567890;
+console.log(account1 === account2);
+
+let featureFlag = true;
+let requiredState = 1;
+console.log(featureFlag === requiredState);
+
+let databaseValue = null;
+let cacheValue = undefined;
+console.log(databaseValue === cacheValue);
+
+let marks1 = 85;
+let marks2 = 85;
+console.log(marks1 === marks2);
+
+
+// 4. Strict Inequality !==
+
+let stringId = "101";
+let numberId = 101;
+console.log(stringId !== numberId);
+
+let booleanStatus = true;
+let numericStatus = 1;
+console.log(booleanStatus !== numericStatus);
+
+let password = "abc123";
+let confirmPassword = "abc124";
+console.log(password !== confirmPassword);
+
+let serverData = null;
+let localData = undefined;
+console.log(serverData !== localData);
+
+let playerId1 = 10;
+let playerId2 = 20;
+console.log(playerId1 !== playerId2);
+
+
+// 5. Greater Than >
+
+let votingAge = 18;
+let personAge = 20;
+console.log(personAge > votingAge);
+
+let cartTotal = 650;
+let freeShippingLimit = 500;
+console.log(cartTotal > freeShippingLimit);
+
+let playerScore = 1200;
+let requiredScore = 1000;
+console.log(playerScore > requiredScore);
+
+let monthlyIncome = 40000;
+let minimumIncome = 30000;
+console.log(monthlyIncome > minimumIncome);
+
+let steps = 11000;
+let target = 10000;
+console.log(steps > target);
+
+
+// 6. Less Than <
+
+let studentMarks = 30;
+let failThreshold = 35;
+console.log(studentMarks < failThreshold);
+
+let expenses = 8000;
+let budgetLimit = 10000;
+console.log(expenses < budgetLimit);
+
+let itemsLeft = 7;
+let lowStockLimit = 10;
+console.log(itemsLeft < lowStockLimit);
+
+let vehicleSpeed = 40;
+let minimumSpeed = 50;
+console.log(vehicleSpeed < minimumSpeed);
+
+let remainingTime = 4;
+let warningLimit = 5;
+console.log(remainingTime < warningLimit);
+
+
+// 7. Greater Than or Equal >=
+
+let ageForVote = 18;
+let requiredVotingAge = 18;
+console.log(ageForVote >= requiredVotingAge);
+
+let percentage = 75;
+let minimumPercentage = 75;
+console.log(percentage >= minimumPercentage);
+
+let userAge = 14;
+let minimumAge = 13;
+console.log(userAge >= minimumAge);
+
+let currentScore = 500;
+let minimumScore = 500;
+console.log(currentScore >= minimumScore);
+
+let experience = 3;
+let requiredExperience = 2;
+console.log(experience >= requiredExperience);
+
+
+// 8. Less Than or Equal <=
+
+let liftPeople = 7;
+let liftCapacity = 8;
+console.log(liftPeople <= liftCapacity);
+
+let fileSize = 5;
+let maxFileSize = 5;
+console.log(fileSize <= maxFileSize);
+
+let participantAge = 12;
+let maxJuniorAge = 12;
+console.log(participantAge <= maxJuniorAge);
+
+let dataUsed = 9.5;
+let dataLimit = 10;
+console.log(dataUsed <= dataLimit);
+
+let classStrength = 40;
+let maxAllowed = 40;
+console.log(classStrength <= maxAllowed);

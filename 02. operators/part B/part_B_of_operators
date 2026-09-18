@@ -1,0 +1,147 @@
+
+// 1. Simple Assignment
+
+let age = 18;
+console.log(age);
+
+let penPrice = 15;
+console.log(penPrice);
+
+let daysInWeek = 7;
+console.log(daysInWeek);
+
+let city = "Bharuch";
+console.log(city);
+
+let piValue = 3.14159;
+console.log(piValue);
+
+
+// 2. Add and Assign
+
+let marks = 200;
+marks += 35;
+console.log(marks);
+
+let balance = 5000;
+balance += 1200;
+console.log(balance);
+
+let battery = 45;
+battery += 30;
+console.log(battery);
+
+let score = 1250;
+score += 375;
+console.log(score);
+
+let books = 840;
+books += 160;
+console.log(books);
+
+
+// 3. Subtract and Assign
+
+let water = 1000;
+water -= 375;
+console.log(water);
+
+let moneyLeft = 500;
+moneyLeft -= 180;
+console.log(moneyLeft);
+
+let phoneBattery = 90;
+phoneBattery -= 45;
+console.log(phoneBattery);
+
+let boxes = 2400;
+boxes -= 950;
+console.log(boxes);
+
+let gameScore = 2000;
+gameScore -= 625;
+console.log(gameScore);
+
+
+// 4. Multiply and Assign
+
+let population = 5000;
+population *= 3;
+console.log(population);
+
+let production = 120;
+production *= 4;
+console.log(production);
+
+let savings = 2000;
+savings *= 2;
+console.log(savings);
+
+let plants = 50;
+plants *= 5;
+console.log(plants);
+
+let bonusScore = 150;
+bonusScore *= 3;
+console.log(bonusScore);
+
+
+// 5. Divide and Assign
+
+let cloth = 1200;
+cloth /= 4;
+console.log(cloth);
+
+let budget = 80000;
+budget /= 8;
+console.log(budget);
+
+let sugar = 960;
+sugar /= 6;
+console.log(sugar);
+
+let tripDistance = 450;
+tripDistance /= 5;
+console.log(tripDistance);
+
+let totalMarks = 2500;
+totalMarks /= 10;
+console.log(totalMarks);
+
+
+// 6. Modulus and Assign
+
+let shopCandies = 137;
+shopCandies %= 10;
+console.log(shopCandies);
+
+let teamStudents = 250;
+teamStudents %= 7;
+console.log(teamStudents);
+
+let projectDays = 1000;
+projectDays %= 7;
+console.log(projectDays);
+
+let hallChairs = 89;
+hallChairs %= 5;
+console.log(hallChairs);
+
+let loanMonths = 365;
+loanMonths %= 12;
+console.log(loanMonths);
+
+
+// 7. Exponentiation and Assign
+
+let gardenSide = 10;
+gardenSide **= 2;
+console.log(gardenSide);
+
+let cubeEdge = 4;
+cubeEdge **= 3;
+console.log(cubeEdge);
+
+let imageFactor = 3;
+imageFactor **= 2;
+console.log(imageFactor);
