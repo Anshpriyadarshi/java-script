@@ -17,3 +17,25 @@
 // };
 // console.log(greet("Shivam"))
 
+
+// //to print the name 
+// function greet(name){
+//     return "welcome to codinggita "+ name;
+// };
+// console.log(greet("Ayush"));
+
+// // print name
+// function fullName(first , last){
+//     return first+" "+last;
+// };
+// console.log(fullName("Ansh","Priyadarshi"));
+
+// // for even , odd
+// function isEven(num){
+//     if(num%2==0){
+//         return true
+//     }else{
+//         return false
+//     }
+// };
+// console.log(isEven(8))
